@@ -1,0 +1,6 @@
+{
+  "name": "HealthVerse AI",
+  "description": "Your Personal Health Intelligence Platform – an AI-powered healthcare and medical education platform providing symptom analysis, lifestyle assessment, visual analytics, and MBBS-level interactive learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
